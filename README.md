@@ -2,5 +2,4 @@
 
 This is the repo for the first lab, hello world.
 
-youtube link
-
+https://youtu.be/nN2_KoYueMY
